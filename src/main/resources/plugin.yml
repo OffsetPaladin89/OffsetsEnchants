@@ -1,0 +1,7 @@
+name: OffsetsEnchants
+version: '${version}'
+main: me.offsetpaladin89.offsetsenchants.OffsetsEnchants
+api-version: 1.20
+authors: [ OffsetPaladin89 ]
+description: Custom enchants
+website: https://dev.bukkit.org/projects/offsets-enchants
